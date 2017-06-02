@@ -1,0 +1,5 @@
+earlier the file contained some stuff
+Now i am editing it by writing these new lines
+yes i wrote total 3 new lines ,test.txt will now include new stuff
+Let's see what appending a file meansAppending againAppending for the 3rd timeAppending in the new line .This is the correct way
+5th try
